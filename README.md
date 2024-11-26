@@ -9,15 +9,15 @@ Coated-LLM is a structured framework that mimics human scientific reasoning proc
 ## Ablation Study
 ![ablation_study_final](https://github.com/user-attachments/assets/a1c4a261-9ceb-4aee-b687-d958179092ff)
 
-• **Dynamic Few-shot**: For each combination of interest, we select the top five similar questions (based on cosine distance) from learning examples and corresponding reasonings.
+• **Dynamic Few-shot**: For each target drug combination, we select the top five similar questions (based on cosine distance) from learning examples and collect corresponding reasonings.
 
-• **Knowledge**: We particularly focus on the pathway information (from CTDbase) that the therapeutic agents target as the external
+• **External Knowledge**: We particularly focus on the pathway information (from CTDbase) that the therapeutic agents target as the external
 biomedical knowledge (RAG).
 
 • **Self-consistency**: We generate the response multiple times and aggregate them by obtaining consensus prediction via majority vote
-and selecting the most detailed (longest) chain of thought if its paired answer is the same as the majority. 
+and select the most detailed (longest) chain of thought if its paired answer is the same as the majority. 
 
-• **Reviewer and Moderator**: We encourage Reviewer LLM to have multiple perspectives and discuss different branches of thoughts via tree
+• **Reviewer and Moderator**: We encourage multiple Reviewer LLM to have multiple perspectives and discuss different branches of thoughts via tree
 of-thoughts reasoning. Once Reviewer LLM finish the discussion and provide feedback, the Moderator LLM aggregates the reviewer’s feedback and researcher’s response to obtain the final decision. 
 
 ## Prompt Structure
