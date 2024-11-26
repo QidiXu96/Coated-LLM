@@ -2,7 +2,7 @@
 A novel framework that utilizes systematic in-context learning of large language models (LLMs) to automate scientific reasoning to hypotheses generation.
 
 ## Workflow
-<img width="599" alt="workflow" src="https://github.com/user-attachments/assets/7f069dac-6a35-4e2a-95dc-98241c098758">
+<img width="1008" alt="figure1" src="https://github.com/user-attachments/assets/25d9e471-1b80-49a8-a75f-ebb0f81e4230">
 
 Coated-LLM is a structured framework that mimics human scientific reasoning processes to generate hypotheses on efficacious combinatorial therapy. It consists of three stages: (i) Warm-up phase, where Researcher uses external biological knowledge to practice scientific inference and keep correct predictions as learning examples. (ii) Inference phase, where Researcher inferences the new combination using its top five similar questions from learning examples and gets the consistency hypotheses. (iii) Revision phase, where multiple Reviewers provide feedback and Moderator integrates consistency hypotheses from Researcher and feedback from Reviewer to generate the final consensus hypotheses.
 
