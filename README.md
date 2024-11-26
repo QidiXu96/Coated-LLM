@@ -17,8 +17,8 @@ biomedical knowledge (RAG).
 • **Self-consistency**: We generate the response multiple times and aggregate them by obtaining consensus prediction via majority vote
 and select the most detailed (longest) chain of thought if its paired answer is the same as the majority. 
 
-• **Reviewer and Moderator**: We encourage multiple Reviewer LLM to have multiple perspectives and discuss different branches of thoughts via tree
-of-thoughts reasoning. Once Reviewer LLM finish the discussion and provide feedback, the Moderator LLM aggregates the reviewer’s feedback and researcher’s response to obtain the final decision. 
+• **Reviewer and Moderator**: We encourage multiple Reviewer LLMs to have multiple perspectives and discuss different branches of thoughts via tree
+of-thoughts reasoning. Once Reviewer LLMs finish the discussion and provide feedback, the Moderator LLM aggregates the reviewer’s feedback and researcher’s response to obtain the final decision. 
 
 ## Prompt Structure
 ### Prompt for Researcher LLM in the Warm-up phase
