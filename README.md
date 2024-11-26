@@ -1,4 +1,4 @@
-# Coated-LLM
+# Combinatorial Alzheimer’s disease Therapeutic Efficacy Decision (Coated-LLM)
 A novel framework that utilizes systematic in-context learning of large language models (LLMs) to automate scientific reasoning to hypotheses generation.
 
 ## Workflow
