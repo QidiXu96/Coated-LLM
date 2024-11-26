@@ -8,7 +8,6 @@ Coated-LLM is a structured framework that mimics human scientific reasoning proc
 
 ## Ablation Study
 ![ablation_study_final](https://github.com/user-attachments/assets/a1c4a261-9ceb-4aee-b687-d958179092ff)
--87ec-918ad9565e54)
 
 • **Dynamic Few-shot**: For each combination of interest, we select the top five similar questions (based on cosine distance) from learning examples and corresponding reasonings.
 
