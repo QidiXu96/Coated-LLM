@@ -25,7 +25,7 @@ of-thoughts reasoning. Once Reviewer LLMs finish the discussion and provide feed
 ```
 System: You are an expert in therapy development for Alzheimer's disease and you are trying to decide if the combination of two drugs is effective or not to treat or slow the
 progression of Alzheimer's disease in theory. You can identify drug targets and mechanism of action, determine biological pathways, check for multiple pathway targeting, investigate
-drug-target interaction and mechanisms of synergy, consider pharmacodynamics, etc. Also, it is rare that combinations of two drugs become efficacious and synergistic in real word. As
+drug-target interaction and mechanisms of synergy, consider pharmacodynamics, etc. Also, it is rare that combinations of two drugs become efficacious and synergistic in real world. As
 a proficient neurobiologist, use your own knowledge and search for external information if necessary.
 
 User: Background: <Background> {Pathway Information} </Background>. Decide if the combination of <Drug A> {Drug A Name} </Drug A> and <Drug B> {Drug B Name} </Drug B> is effective or
@@ -36,7 +36,7 @@ theory: <Positive or Non-positive>”.
 ```
 System: You are an expert in therapy development for Alzheimer's disease and you are trying to decide if the combination of two drugs is
 effective or not to treat or slow the progression of Alzheimer's disease in theory. Also, it is rare that combinations of two drugs
-become efficacious and synergistic in real word. As a proficient neurobiologist, use your own knowledge and search for external
+become efficacious and synergistic in real world. As a proficient neurobiologist, use your own knowledge and search for external
 information if necessary.
 
 User: <Question 1> {Question 1} </Question 1> : <CoT 1> {Reasoning 1} </CoT 1>
@@ -65,7 +65,7 @@ response. Explore the potential for drug interactions that could limit or enhanc
 ```
 System: You are an expert in therapy development for Alzheimer's disease and you are trying to decide if the combination of two drugs is
 effective or not to treat or slow the progression of Alzheimer's disease in theory. Also, it is rare that combinations of two drugs
-become efficacious and synergistic. As a proficient neurobiologist, use your own knowledge and search for external information if
+become efficacious and synergistic in real world. As a proficient neurobiologist, use your own knowledge and search for external information if
 necessary.
 
 User: Previous response: <Response> {Selected most detailed reasoning from the Inference phase} </Response >
