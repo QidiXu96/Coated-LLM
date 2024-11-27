@@ -1,1 +1,5 @@
-It contains warmup.py, inference.py, reviewer.py, moderator.py and corresponding usage examples.
+Warmup.py contains necessary functions (include prompt sturcture, external knowledge, chain-of-thoughts) to perform phase 1 (warmup).
+Inference.py contains necessary functions (include prompt sturcture, dynamic few shots learning, external knowledge, chain-of-thoughts) to perform phase 2 (inference).
+Reviewer.py contains necessary functions (include prompt structure, tree-of-thoughts) to perform phase 3 (evaluation).
+Moderator.py contains necessary functions (include prompt sturcture, chain-of-thoughs) to perform phase 3 (revision).
+example_warmup.py, example_inference.py, example_reviewer.py, example_moderator.py are usage examples.
