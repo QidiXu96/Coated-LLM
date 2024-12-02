@@ -6,6 +6,17 @@ A novel framework that utilizes systematic in-context learning of large language
 
 Coated-LLM is a structured framework that mimics human scientific reasoning processes to generate hypotheses on efficacious combinatorial therapy. It consists of three stages: (i) Warm-up phase, where Researcher uses external biological knowledge to practice scientific inference and keep correct predictions as learning examples. (ii) Inference phase, where Researcher inferences the new combination using its top five similar questions from learning examples and gets the consistency prediction. (iii) Revision phase, where multiple Reviewers provide feedback and Moderator integrates consistency prediction from Researcher and feedback from Reviewer to generate the final consensus prediction and reasoning.
 
+**Coated-LLM** is a repository for Alzheimer's disease drug combination evaluation using language models.
+
+## Installation
+
+Follow these steps to set up the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/QidiXu96/Coated-LLM.git
+   cd Coated-LLM
+
 ## Ablation Study
 ![figure4](https://github.com/user-attachments/assets/09a40da9-b231-4658-87fe-2d8b542465be)
 
