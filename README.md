@@ -27,6 +27,8 @@ Follow these steps to set up the project locally:
 4. Run an example script:
    ```bash
    see coated-llm-example.ipynb
+   [Important Code](https://github.com/QidiXu96/Coated-LLM/blob/main/scripts/coated-llm-example.ipynb)
+
 
 ## Ablation Study
 ![figure4](https://github.com/user-attachments/assets/09a40da9-b231-4658-87fe-2d8b542465be)
