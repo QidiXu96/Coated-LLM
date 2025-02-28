@@ -25,10 +25,7 @@ Follow these steps to set up the project locally:
    ```bash
    pip install -r requirements.txt
 4. Run an example script:
-   ```bash
-   see coated-llm-example.ipynb
-   
-[coated-llm-example.ipynb](coated-llm-example.ipynb)
+   see [coated-llm-example.ipynb](coated-llm-example.ipynb)
 
 
 ## Ablation Study
