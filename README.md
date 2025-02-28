@@ -27,7 +27,8 @@ Follow these steps to set up the project locally:
 4. Run an example script:
    ```bash
    see coated-llm-example.ipynb
-   [ coated-llm-example.ipynb](coated-llm-example.ipynb)
+   
+[coated-llm-example.ipynb](coated-llm-example.ipynb)
 
 
 ## Ablation Study
