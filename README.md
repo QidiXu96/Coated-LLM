@@ -16,7 +16,7 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/QidiXu96/Coated-LLM.git
-   cd Coated-LLM
+   cd Coated-LLM-Project
 2. (Optional) Create a virtual environment and activate it:
    ```bash
    python -m venv coated-test
@@ -26,7 +26,7 @@ Follow these steps to set up the project locally:
    pip install -r requirements.txt
 4. Run an example script:
    ```bash
-   python coated-llm-example.ipynb
+   see coated-llm-example.ipynb
 
 ## Ablation Study
 ![figure4](https://github.com/user-attachments/assets/09a40da9-b231-4658-87fe-2d8b542465be)
