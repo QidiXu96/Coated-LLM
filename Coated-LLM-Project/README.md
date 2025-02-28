@@ -1,1 +1,1 @@
-necessary functions for Warmup, Inference, Revision phases.
+necessary functions for Warmup, Inference, Revision, and Evaluation phases.
