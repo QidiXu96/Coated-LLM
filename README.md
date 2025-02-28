@@ -1,5 +1,6 @@
 # Combinatorial Alzheimer’s disease Therapeutic Efficacy Decision (Coated-LLM)
-A novel framework that utilizes systematic in-context learning of large language models (LLMs) to automate scientific reasoning to hypotheses generation.
+A novel framework that utilizes systematic in-context learning of large language models (LLMs) to simulate scientific reasoning and peer review to predict efficacious combinatorial therapy when data-driven prediction is infeasible.
+
 
 ## Workflow
 <img width="1251" alt="Screenshot 2024-12-01 at 3 12 11 PM" src="https://github.com/user-attachments/assets/9edfcdef-5a33-40fd-b4bf-703c1b6c5711">
