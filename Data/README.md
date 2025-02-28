@@ -1,3 +1,7 @@
-**AD_drug_combinations.xlsx**: drug combinations obtained from literature mining.
-**Agora-gene-list.cvs**: AD drug targets from Agora website.
-**List of AD Drugs & Target Genes.xlsx**: 
+**AD_drug_combinations.xlsx**: AD drug combinations obtained from literature mining.
+<br>
+**original_with_generated.xlsx**: AD drug combinations obtained from literature mining and data augmentation.
+<br>
+**Agora-gene-list.cvs**: AD targets genes from Agora website.
+<br>
+**List of AD Drugs & Target Genes.xlsx**: Drugs that hit AD targets genes.
