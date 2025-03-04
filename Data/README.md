@@ -4,4 +4,4 @@
 <br>
 **Agora-gene-list.cvs**: AD targets genes from Agora website.
 <br>
-**List of AD Drugs & Target Genes.xlsx**: Drugs that hit AD targets genes.
+**List of AD Drugs & Target Genes.xlsx**: Drugs hit AD targets genes.
