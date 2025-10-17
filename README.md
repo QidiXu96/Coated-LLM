@@ -29,7 +29,8 @@ Follow these steps to set up the project locally:
    see [coated-llm-example.ipynb](https://github.com/QidiXu96/Coated-LLM/blob/main/Coated-LLM-Project/coated_llm_example.ipynb)
 
 ## Ablation Study
-![figure3](https://github.com/user-attachments/assets/e69773de-5fba-4686-ba15-6bac7c1f4999)
+
+[figure 4.pdf](https://github.com/user-attachments/files/22974784/figure.4.pdf)
 
 • **Dynamic Few-shot**: For each target drug combination, we select the top five similar questions (based on cosine distance) from learning examples and collect corresponding reasonings.
 
