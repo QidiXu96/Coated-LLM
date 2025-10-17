@@ -30,7 +30,7 @@ Follow these steps to set up the project locally:
 
 ## Ablation Study
 
-![figure 4.pdf](https://github.com/user-attachments/files/22974784/figure.4.pdf)
+<img width="9600" height="5600" alt="figure4_new" src="https://github.com/user-attachments/assets/5fd06d4a-e4fc-4359-a4a7-05623fffed23" />
 
 • **Dynamic Few-shot**: For each target drug combination, we select the top five similar questions (based on cosine distance) from learning examples and collect corresponding reasonings.
 
